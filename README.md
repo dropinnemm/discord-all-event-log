@@ -2,4 +2,4 @@
 Discord Bot All Event Log
 
 
-**you just need to set the channel id
+**you just need to set the channel id**
